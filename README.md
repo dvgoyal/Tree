@@ -1,2 +1,0 @@
-# newr
-c++ codes practice
